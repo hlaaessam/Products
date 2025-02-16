@@ -15,6 +15,7 @@ The **Products Card** allows users to manage a list of products by adding, viewi
         </tbody>
     </table>
 
+<br>
 ### Key Features
 
 1. **Add a Product**: Enter the **Name**, **Price**, **Category**, and **Description** into input fields and save the product to `localStorage`. The product is then displayed in a table.
