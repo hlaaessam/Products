@@ -2,7 +2,9 @@
 
 The **Products Card** allows users to manage a list of products by adding, viewing, updating, deleting, and searching for them. All product data is stored in `localStorage`, ensuring persistence across sessions.
 
-<table align="center">
+<p align="left"><b>Check our Demo</b></p>
+
+<table align="left">
         <thead>
             <tr>
                 <th><a href="https://drive.google.com/file/d/1_FZWn62Ekl_b6hjRGSN34j3TghWBdit5/view?usp=drive_link">Demo</a></th>
@@ -14,6 +16,8 @@ The **Products Card** allows users to manage a list of products by adding, viewi
 	  </tr>
         </tbody>
     </table>
+
+<br><br>
 
 ### Key Features
 
