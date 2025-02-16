@@ -2,6 +2,19 @@
 
 The **Products Card** allows users to manage a list of products by adding, viewing, updating, deleting, and searching for them. All product data is stored in `localStorage`, ensuring persistence across sessions.
 
+<table align="center">
+        <thead>
+            <tr>
+                <th><a href="https://drive.google.com/file/d/1_FZWn62Ekl_b6hjRGSN34j3TghWBdit5/view?usp=drive_link">Demo</a></th>
+            </tr>
+        </thead>
+        <tbody>	
+          <tr>
+		  <th></th>
+	  </tr>
+        </tbody>
+    </table>
+
 ### Key Features
 
 1. **Add a Product**: Enter the **Name**, **Price**, **Category**, and **Description** into input fields and save the product to `localStorage`. The product is then displayed in a table.
